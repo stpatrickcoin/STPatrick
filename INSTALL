@@ -1,0 +1,9 @@
+Building StPatrickCoin
+
+See doc/readme-qt.rst for instructions on building stpatrickcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of StPatrickCoin.
+
+See doc/build-*.txt for instructions on building stpatrickcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of StPatrickCoin.
